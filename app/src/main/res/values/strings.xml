@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Tour Lagos Island</string>
+    <string name="eko_name">Eko Hotel &amp; Suites</string>
+    <string name="eko_location">1415 Adetokunbo Ademola Street, Victoria Island, Lagos</string>
+    <string name="federal_name">Federal Palace Hotel</string>
+    <string name="federal_location">6–8 Ahmadu Bello Way,Victoria Island, Lagos</string>
+    <string name="inter_name">Intercontinental Hotel</string>
+    <string name="inter_location">Plot 52, Kofo Abayomi Street, Victoria Island, Lagos</string>
+    <string name="lagos_oriental">Lagos Oriental Hotel</string>
+    <string name="lagos_oriental_location">3 Lekki - Epe Express Way, Victoria Island, Lagos</string>
+    <string name="radisson_name">Radisson Blu Anchorage Hotel</string>
+    <string name="radisson_location">1A Ozumba Mbadiwe Avenue, Victoria Island, Lagos</string>
+    <string name="southern_name">Southern Sun Ikoyi</string>
+    <string name="southern_location">47 Alfred Rewane Road, Ikoyi, Lagos</string>
+    <string name="four_name">Four Points</string>
+    <string name="elegushi_name">Elegushi Royal Beach</string>
+    <string name="tarkwa_name">Tarkwa Bay Beach</string>
+    <string name="kuramo_name">Kuramo Beach</string>
+    <string name="oniru_name">Oniru Private Beach</string>
+    <string name="atican_name">Atican Beach</string>
+    <string name="eleko_name">Eleko Beach</string>
+    <string name="coconut_name">Coconut Beach</string>
+    <string name="lekki_name">Lekki Leisure Lake</string>
+    <string name="lekki_con_name">Lekki Conservation Centre</string>
+    <string name="lufasi_name">LUFASI Nature Park</string>
+    <string name="gberefu_name">Gberefu Island</string>
+    <string name="freedom_name">Freedom Park</string>
+    <string name="leisure_name">Leisure Sports Park</string>
+    <string name="dolphin_name">Dolphin Park</string>
+    <string name="sailors_name">Sailors Lounge</string>
+    <string name="villa_name">Villa Medici</string>
+    <string name="metisse_name">Metisse Restaurant</string>
+    <string name="bungalow_name">Bungalow\'s</string>
+    <string name="sixteen_name">1662 Cafe &amp; Bar</string>
+    <string name="hard_name">Hard Rock Cafe</string>
+    <string name="place_name">The Place Lekki</string>
+    <string name="about_intercontinental">A 5-Star hotel lying in the popular high-brow area of Lagos.
+        It offers 352 luxury and tastily furnished rooms.</string>
+    <string name="about_lagos_oriental">On the banks of Five Cowries Creek overlooking
+        Lagos Island, this upmarket hotel is 2 km from the white sands of Bar Beach.</string>
+    <string name="about_federal">Overlooking Lagos Lagoon, this high-end hotel is 2 km from the Nigerian National Museum and 3 km from Freedom Park.</string>
+    <string name="about_eko">Airy rooms with wood floors and furnishings offer free Wi-Fi and flat-screen TVs. All come with balconies.</string>
+    <string name="about_southern">Sophisticated rooms with warm \nwood furnishings and subdued \ntones feature free Wi-Fi.
+        Suites add living and dining areas.</string>
+    <string name="about_radisson">Offering city or lagoon views, the \nwarm rooms come with free Wi-Fi, safes and TVs, plus tea and coffeemaking facilities.</string>
+    <string name="about_four">Modern rooms with tile floors offer \nfree Wi-Fi, flat-screen TVs and minifridges, plus tea, coffeemaking facilities and safes</string>
+    <string name="about_elegushi">White sandy beach attracting visitors with restaurants &amp; resort hotels.</string>
+    <string name="about_tarkwa">Tarkwa Bay is an artificial sheltered beach located near the Lagos harbour in Nigeria.</string>
+    <string name="about_kuramo">Kuramo Beach is a sandy beach in Lagos, Nigeria, located at the south side of Victoria Island.</string>
+    <string name="about_oniru">Oniru Beach is a beautiful private beach, a popular venue for parties, live shows and special events.</string>
+    <string name="about_atican">Atican Beach Resort in Lagos, Nigeria. Best Beach Resort and Beach Hotel in Lagos, Nigeria.</string>
+    <string name="about_eleko">Eleko Beach opened in 1989 as a serene and private beach in the Lekki Peninsula, about 30 miles east of the Lagos Island.</string>
+    <string name="about_coconut">A private tropical paradise, reminiscent of days gone by,
+        sits quietly and serenely on the Atlantic side of Key West.</string>
+    <string name="about_lekki">Unarguably one of the most relaxing spots in Lagos located at water corporation road \noff Lekki-Epe expressway.</string>
+    <string name="about_lekki_con">Lekki Conservation Centre is a 78-hectare Natural Resource Conservation in Lekki, Lagos State.</string>
+    <string name="about_lufasi">LUFASI is an urban forest dedicated for people to connect and interact with nature.</string>
+    <string name="about_gberefu">Gberefu Island also known as Point of No Return is a populated historical island located in Badagry.</string>
+    <string name="about_freedom">Freedom Park is a memorial and leisure park area in the middle of downtown Lagos in Lagos Island.</string>
+    <string name="about_leisure">Leisure Sports Park (LSP) is the number one destination for team-led sports in Lekki. Located conveniently in the suburbs of Lekki.</string>
+    <string name="about_dolphin">Dolphin Estate, Lagos</string>
+    <string name="about_sailors">Sailors lounge is one of the happening lounge and restaurant in Lekki, Lagos. Perfect place to experience the nightlife in Lagos.</string>
+    <string name="about_villa">The Villa Medici has built up a reputation second to none for food, service and ambiance.</string>
+    <string name="about_metisse">We have gathered the wonderful \nfoods and flavors of Pan-Asian cuisine from South-East Asia, to give you a taste of the five flavors of food</string>
+    <string name="about_bungalow">Your first and only sushi online delivery system! We deliver to Victoria Island and Ikoyi!</string>
+    <string name="about_1662">A private haven for croissants, easy breezy meals, chai lattes, cappuccinos, and fresh juices</string>
+    <string name="about_hard">Rock ’n’ roll-themed chain with a high-energy vibe serving burgers &amp; American classics.</string>
+    <string name="about_the_place">The Place Restaurant, offers classic Nigerian food to the nearly fifteen million residents of the city of Lagos.</string>
+    <string name="toast_message">Item outside the bounds of the array</string>
+    <string name="hotels">Hotels</string>
+    <string name="beaches">Beaches</string>
+    <string name="parks">Parks</string>
+    <string name="foods">Food</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">LOCATION</string>
+    <string name="about">ABOUT</string>
+</resources>
